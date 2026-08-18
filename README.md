@@ -1,6 +1,6 @@
 # This note is writen by @[Neptune_EX](https://github.com/Neptune-EX)
 
-## DATA_LAB 20260817
+## DATA_LAB 数字的表示 20260817
 
 1. 针对负数表示的数字的计算方法:
 
