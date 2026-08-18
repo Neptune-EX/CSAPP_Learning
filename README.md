@@ -23,6 +23,7 @@ $$
 - howManyBits(0)  = 1
 - howManyBits(-1) = 1
 - howManyBits(0x80000000) = 32
+
 $$
     - (2^{(n-1)}) \to 2^{(n-1)} 共计2^n个数字
 $$
